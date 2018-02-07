@@ -4,10 +4,12 @@ Thank you for listening to Radio Kol Haneshama, the only Jewish Radio Station in
 
 Radio on the go!
 
-<img src="https://github.com/pchmn/MaterialChipsInput/blob/master/docs/demo2.gif" alt="Demo" height="600px"/>
+<img src="https://github.com/madbe/RadioKolHaneshama/tree/master/docs/Screenshot_01.png" alt="Splash" height="600px"/>
+
+<img src="https://github.com/madbe/RadioKolHaneshama/tree/master/docs/Screenshot_02.png" alt="Radio" height="600px"/>
 
 ## Radio
-[Radio Kol-Haneshama sample-v1.0.0.apk](https://github.com/pchmn/MaterialChipsInput/raw/master/docs/material-chips-input-sample-v1.0.8.apk)
+[Radio Kol-Haneshama sample-v1.0.0.apk](https://github.com/madbe/RadioKolHaneshama/tree/master/docs/radio-kol-haneshama-sample-v1.0.0.apk)
 
 ## Setup
 
@@ -15,7 +17,7 @@ Download the APK file to your mobile and install. You may need to enable Unknown
 
 ## Credits
 
-* [Ben Madar](https://github.com/madbe/android-material-chips)
+* [Ben Madar](https://github.com/madbe/RadioKolHaneshama)
 
 
 ## License
