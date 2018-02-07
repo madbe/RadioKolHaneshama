@@ -11,7 +11,7 @@ Screenshots
 <img src="docs/Screenshot_01.png" alt="Screenshot" height="400px"/> <img src="docs/Screenshot_02.png" alt="Screenshot" height="400px"/> <img src="docs/Screenshot_03.png" alt="Screenshot" height="400px"/> <img src="docs/Screenshot_04.png" alt="Screenshot" height="400px"/> <img src="docs/Screenshot_05.png" alt="Screenshot" height="400px"/> <img src="docs/Screenshot_06.png" alt="Screenshot" height="400px"/>
 
 ## Radio
-[Radio Kol-Haneshama sample-v1.0.0.apk](https://github.com/madbe/RadioKolHaneshama/blob/master/docs/radio-kol-haneshama-sample-v1.0.0.apk)
+[Radio Kol-Haneshama sample-v1.0.0.apk](https://github.com/madbe/RadioKolHaneshama/raw/master/docs/radio-kol-haneshama-sample-v1.0.0.apk)
 
 ## Setup
 
