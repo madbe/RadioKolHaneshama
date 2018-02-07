@@ -3,9 +3,10 @@
 
 Thank you for listening to Radio Kol Haneshama, the only Jewish Radio Station in Southern California broadcasting on FM SCA and online World Wide. Radio Kol Haneshama airs the most updated and upbeat music along with prayers, daily tehilim portions and lectures for all ages. Tune in online or purchase our special Radio receiver for your home or office, it simply needs to be plugged in! Call our office to order and pick up.
 
+Screenshots
+-------------
 
-
-<img src="https://github.com/madbe/RadioKolHaneshama/blob/master/docs/Screenshot_01.png" alt="Splash" height="600px" style="display:inline-block;"/><img src="https://github.com/madbe/RadioKolHaneshama/blob/master/docs/Screenshot_02.png" alt="Radio" height="600px" style="display:inline-block;"/>
+<img src="docs/Screenshot_01.png" alt="Screenshot" height="400px"/><img src="docs/Screenshot_02.png" alt="Screenshot" height="400px"/><img src="docs/Screenshot_03.png" alt="Screenshot" height="400px"/><img src="docs/Screenshot_04.png" alt="Screenshot" height="400px"/><img src="docs/Screenshot_05.png" alt="Screenshot" height="400px"/><img src="docs/Screenshot_06.png" alt="Screenshot" height="400px"/>
 
 ## Radio
 [Radio Kol-Haneshama sample-v1.0.0.apk](https://github.com/madbe/RadioKolHaneshama/tree/master/docs/radio-kol-haneshama-sample-v1.0.0.apk)
