@@ -4,8 +4,8 @@ Thank you for listening to Radio Kol Haneshama, the only Jewish Radio Station in
 
 **Radio on the go!**
 
-<img src="https://github.com/madbe/RadioKolHaneshama/blob/master/docs/Screenshot_01.png" alt="Splash" height="600px"/>
-<img src="https://github.com/madbe/RadioKolHaneshama/blob/master/docs/Screenshot_02.png" alt="Radio" height="600px"/>
+<img src="https://github.com/madbe/RadioKolHaneshama/blob/master/docs/Screenshot_01.png" alt="Splash" height="600px" style="display:inline-block;"/>
+<img src="https://github.com/madbe/RadioKolHaneshama/blob/master/docs/Screenshot_02.png" alt="Radio" height="600px" style="display:inline-block;"/>
 
 ## Radio
 [Radio Kol-Haneshama sample-v1.0.0.apk](https://github.com/madbe/RadioKolHaneshama/tree/master/docs/radio-kol-haneshama-sample-v1.0.0.apk)
